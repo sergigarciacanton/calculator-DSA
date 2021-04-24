@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_Igual">=</string>
+    <string name="_Mas">+</string>
+    <string name="_Menos">-</string>
+    <string name="_Por">x</string>
+    <string name="_Entre">/</string>
+    <string name="_0">0</string>
+    <string name="_Clear">C</string>
+    <string name="_Sin">sin</string>
+    <string name="_Cos">cos</string>
+    <string name="_Tan">tan</string>
+    <string name="screen">0</string>
+    <string name="angle">DEG</string>
+</resources>
